@@ -13,4 +13,11 @@ Some good websites to code and learn:
 4. Browser-sync, makes development faster and chrome developer tools. 
 
 Frameworks: 
-1. Bootstrap 
+1. Bootstrap
+
+
+
+
+
+
+Just to pratice
